@@ -1,3 +1,3 @@
 certifi==2021.5.30
-gpudb==7.1.4.0
+gpudb==7.1.5.0
 jupyter==1.0.0
